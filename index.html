@@ -35,7 +35,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '3782208325';
+    var serviceWorkerVersion = '3655825299';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer=""></script>
@@ -55,7 +55,48 @@
       <source srcset="splash/img/dark-1x.png 1x, splash/img/dark-2x.png 2x, splash/img/dark-3x.png 3x, splash/img/dark-4x.png 4x" media="(prefers-color-scheme: dark)">
       <img class="center" aria-hidden="true" src="splash/img/light-1x.png" alt="">
   </picture>
-  
+
+    <!-- SPOTIFY EMBED -->
+  <!-- <button id="togglePlay">Toggle Play</button>
+    <script src="https://sdk.scdn.co/spotify-player.js"></script>
+    <script>
+      window.onSpotifyWebPlaybackSDKReady = () => {
+      const token = 'BQAq0jpYs0ARTOqvALtVRaN7baWcR_cZr2VQH2iB-haqysPL_iHdauz_aY1UFww1xwSDjWgbAM8JqlpDmWmXBS-mER1WgS796_L39oUGfR5gfGZ45BHwIVVBe1GG1Yla8myRH88Zn8igiqae-fgjEkQ1s3cDwrPKBvIsPuaWwia6hSp3y2A_JfyqCCgLmoBZmPbG9AspvKoypR-n_hyzU6CZKS0DEmROnEti2lfqHJHmmps_YccQEunIlsESZyKjvEDZ9ttOuCdRBRAJm4r5pLaRa-K2emzaU86msOwXDb9oM661uVmICTmRfAocS8x0we7K176KFwxmVhkMmTVmGI6w8cs9f1gLgSA6EtblAUY62td0WCo';
+      const player = new Spotify.Player({
+        name: 'Web Playback SDK Quick Start Player',
+        getOAuthToken: cb => { cb(token); },
+        volume: 0.5
+      });
+
+          // Ready
+          player.addListener('ready', ({ device_id }) => {
+            console.log('Ready with Device ID', device_id);
+          });
+
+          // Not Ready
+          player.addListener('not_ready', ({ device_id }) => {
+            console.log('Device ID has gone offline', device_id);
+          });
+
+          player.addListener('initialization_error', ({ message }) => {
+              console.error(message);
+          });
+
+          player.addListener('authentication_error', ({ message }) => {
+              console.error(message);
+          });
+
+          player.addListener('account_error', ({ message }) => {
+              console.error(message);
+          });
+
+          player.connect();
+
+    }
+
+  </script> -->
+
+  <!-- BEGIN FLUTTER -->
   <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
