@@ -44184,7 +44184,7 @@ if(s!=null&&s.a!=null)return
 r=this.r
 if(r){p.z=B.a2
 q=p.iP(1,B.zc,B.AQ)}else{p.z=B.a2
-q=p.iP(0,B.Ai,B.AX)}q.aT(0,new A.aiE(this,r),t.H)},
+q=p.iP(0,B.Ai,B.AW)}q.aT(0,new A.aiE(this,r),t.H)},
 M(a0){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e=g.a.r==null,d=!e,c=A.GT(a0),b=c.ghL(),a=g.a.e
 if(a==null)s=f
 else s=A.GL(a,a0)
@@ -45691,7 +45691,7 @@ a31(){if(this.b<=0)this.gM_().eZ(0)},
 gM_(){var s=this,r=s.rx$
 if(r===$){$.WM()
 r!==$&&A.b2()
-r=s.rx$=new A.aml(A.t(t.S,t.GG),B.p,new A.A2(),B.p,B.p,s.ga2K(),s.ga30(),B.AW)}return r},
+r=s.rx$=new A.aml(A.t(t.S,t.GG),B.p,new A.A2(),B.p,B.p,s.ga2K(),s.ga30(),B.AV)}return r},
 $ian:1}
 A.a3W.prototype={
 $0(){var s=null
@@ -77493,7 +77493,7 @@ while(true)switch(s){case 0:q.am(new A.ali(q,a))
 return A.I(null,r)}})
 return A.J($async$vR,r)},
 M(a){var s=null,r=$.aDN(),q=A.ari(10),p=A.awm("assets/lp_icon.png"),o=t.F
-p=A.k2(s,A.tn(B.cE,A.a([new A.zY(p,B.AV,!0,!0,30,s),A.awm("assets/kanga_with_text_icon.png")],o),B.a_,B.cz),B.z,s,B.y9,s,s,s,s,s,s,s,s)
+p=A.k2(s,A.tn(B.cE,A.a([new A.zY(p,B.AX,!0,!0,99,s),A.awm("assets/kanga_with_text_icon.png")],o),B.a_,B.cz),B.z,s,B.y9,s,s,s,s,s,s,s,s)
 return new A.xZ(A.axM(!0,new A.zn(A.FJ(new A.cS(B.ed,A.k2(s,new A.Me(B.y4,A.Zc(A.a([new A.wN(new A.vC(p,B.cR,B.cR,20,s),B.ng,s),B.Ht,A.k2(s,A.aKj(this.ay),B.z,s,B.ya,s,s,s,s,s,s,s,s)],o),B.u3,B.eM),s),B.z,s,s,new A.e9(B.fX,s,s,q,s,s,B.aY),s,s,s,B.ed,s,s,s),s),1/0,1/0),!1,s),B.aS,!0),"GrownHop\u2122 Records",r,!1,s)}}
 A.alj.prototype={
 $0(){return!0},
@@ -82937,10 +82937,10 @@ B.AT=new A.aO(14e4)
 B.AU=new A.aO(15e3)
 B.cQ=new A.aO(15e4)
 B.ng=new A.aO(15e5)
-B.AV=new A.aO(15e7)
-B.AW=new A.aO(16667)
+B.AV=new A.aO(16667)
 B.nh=new A.aO(167e3)
-B.AX=new A.aO(18e4)
+B.AW=new A.aO(18e4)
+B.AX=new A.aO(18e7)
 B.M=new A.aO(2e5)
 B.cR=new A.aO(2e6)
 B.AY=new A.aO(225e3)
