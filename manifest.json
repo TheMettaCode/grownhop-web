@@ -1,11 +1,11 @@
 {
-    "name": "GrownHop",
+    "name": "GrownHop™ Records",
     "short_name": "grownhop",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
+    "background_color": "#1b1b1b",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "GrownHop™ Records",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

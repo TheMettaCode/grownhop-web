@@ -77494,7 +77494,7 @@ return A.I(null,r)}})
 return A.J($async$vR,r)},
 M(a){var s=null,r=$.aDN(),q=A.ari(10),p=A.awm("assets/lp_icon.png"),o=t.F
 p=A.k2(s,A.tn(B.cE,A.a([new A.zY(p,B.AV,!0,!0,30,s),A.awm("assets/kanga_with_text_icon.png")],o),B.a_,B.cz),B.z,s,B.y9,s,s,s,s,s,s,s,s)
-return new A.xZ(A.axM(!0,new A.zn(A.FJ(new A.cS(B.ed,A.k2(s,new A.Me(B.y4,A.Zc(A.a([new A.wN(new A.vC(p,B.cR,B.cR,20,s),B.ng,s),B.Ht,A.k2(s,A.aKj(this.ay),B.z,s,B.ya,s,s,s,s,s,s,s,s)],o),B.u3,B.eM),s),B.z,s,s,new A.e9(B.fX,s,s,q,s,s,B.aY),s,s,s,B.ed,s,s,s),s),1/0,1/0),!1,s),B.aS,!0),"GrownHop\u2122",r,!1,s)}}
+return new A.xZ(A.axM(!0,new A.zn(A.FJ(new A.cS(B.ed,A.k2(s,new A.Me(B.y4,A.Zc(A.a([new A.wN(new A.vC(p,B.cR,B.cR,20,s),B.ng,s),B.Ht,A.k2(s,A.aKj(this.ay),B.z,s,B.ya,s,s,s,s,s,s,s,s)],o),B.u3,B.eM),s),B.z,s,s,new A.e9(B.fX,s,s,q,s,s,B.aY),s,s,s,B.ed,s,s,s),s),1/0,1/0),!1,s),B.aS,!0),"GrownHop\u2122 Records",r,!1,s)}}
 A.alj.prototype={
 $0(){return!0},
 $S:0}
