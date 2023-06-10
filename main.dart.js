@@ -81893,7 +81893,7 @@ p=A
 s=3
 return A.p(A.ai6(q,"https://grownhoprecords.com/spotify/","app-remote-control,user-modify-playback-state,playlist-read-private"),$async$q0)
 case 3:s=2
-return A.p(p.ai5(b,q,"https://grownhoprecords.com/spotify",u.x),$async$q0)
+return A.p(p.ai5(b,q,"https://grownhoprecords.com/spotify/",u.x),$async$q0)
 case 2:return A.A(null,r)}})
 return A.B($async$q0,r)},
 me(){var s=0,r=A.C(t.H),q=this,p
