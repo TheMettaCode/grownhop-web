@@ -4,7 +4,7 @@
     "start_url": ".",
     "display": "standalone",
     "background_color": "#1b1b1b",
-    "theme_color": "#0175C2",
+    "theme_color": "#045315",
     "description": "The official website for GrownHop™ Records. A deep collection of artists and music",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
