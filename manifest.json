@@ -1,0 +1,35 @@
+{
+    "name": "GrownHop™ Records",
+    "short_name": "GrownHop™ Records",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#1b1b1b",
+    "theme_color": "#045315",
+    "description": "The official website for GrownHop™ Records. A deep collection of artists and music",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/ms-icon-150x150.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/ms-icon-310x310.png",
+            "sizes": "310x310",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/ms-icon-150x150.png",
+            "sizes": "150x150",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/ms-icon-310x310.png",
+            "sizes": "310x310",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
